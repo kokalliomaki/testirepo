@@ -1,6 +1,6 @@
 Testitekstidokumentti lapioa varten
 Tässä on toinen tekstirivi
-Ja tässä kolmas, viestinä: "Terveisiä laitokselta!"
+Ja tässä kolmas, jolle piti nyt tehdä muutoksia: "Terveisiä Githubista!"
 En tiedä miksi näitä tarvitaan
 Lisäänpä lisää rivejä
 Koska testisyyt
