@@ -1,0 +1,6 @@
+Testitekstidokumentti lapioa varten
+Tässä on toinen tekstirivi
+Ja tässä kolmas
+En tiedä miksi näitä tarvitaan
+Lisäänpä lisää rivejä
+Koska testisyyt
