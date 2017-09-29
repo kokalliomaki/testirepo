@@ -6,3 +6,4 @@ Lisäänpä lisää rivejä
 Koska testisyyt
 Gitin oppiminen on oikeesti hyödyllistä!
 Lapio on hauska kurssi, vaikkakin vain pintaraapaisu moneen aiheeseen.
+Kurssi on kohta paketissa!
