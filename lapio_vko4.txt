@@ -4,3 +4,4 @@ Ja tässä kolmas
 En tiedä miksi näitä tarvitaan
 Lisäänpä lisää rivejä
 Koska testisyyt
+Gitin oppiminen on oikeesti hyödyllistä!
